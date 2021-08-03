@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you use ... in your work, please cite it using the following metadata
+title: My Title
+abstract: This library provides ...
+authors:
+- family-names: Family Names
+  given-names: Given Names
+  orcid: https://orcid.org/...
+  affiliation: University of ..., Country
+keywords:
+- Keyword 1
+- Keyword 2
+version: 1.0.0
+doi: 1234/567.8
+date-released: 2018-07-29
+license: Apache-2.0
+repository-artifact: https://mymodulerepo.org/myuser/myrepo
+repository-code: https://github.com/myuser/myrepo
